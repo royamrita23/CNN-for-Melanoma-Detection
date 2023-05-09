@@ -46,7 +46,7 @@ The dataset utilized for this project comprises 2,357 images of both malignant a
 	
 ## Input Path Link:
 	
-
+https://drive.google.com/drive/folders/1VkjDobUyza06b8MWfPHXcelDOx9-TLxC?usp=sharing 
 
 ## Conclusions
 
