@@ -43,6 +43,9 @@ The dataset utilized for this project comprises 2,357 images of both malignant a
 	7) Handling class imbalances
 	8) Model Building & training on the rectified class imbalance data
 	9) Selection of appropriate optimiser and loss function for model training
+	
+## Input Path Link:
+	
 
 
 ## Conclusions
