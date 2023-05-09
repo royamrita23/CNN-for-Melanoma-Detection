@@ -13,7 +13,8 @@ Multiclass Classification Model using CNN for Melanoma Detection
 	* Conclusions
 
 ## Objective: 
-	To create a multiclass classification model using a custom convolutional neural network in tensorflow
+
+To create a multiclass classification model using a custom convolutional neural network in tensorflow
 
 ## Problem statement: 
 
@@ -32,6 +33,7 @@ The dataset utilized for this project comprises 2,357 images of both malignant a
       9) Vascular lesion
 
 ## Methodology
+
 	1) Data Reading/Data Understanding
 	2) Dataset Creation
 	3) Dataset visualisation
@@ -44,6 +46,7 @@ The dataset utilized for this project comprises 2,357 images of both malignant a
 
 
 ## Conclusions
+
 	1) The training and validation accuracy is in range of 63-65%.
 	2) The overfitting issue has been resolved as the training and validation accuracy are in similar ranges.
 	3) The data augmentation technique helped to overcome overfitting and further class rebalance helped in improving accuracies.
@@ -51,6 +54,8 @@ The dataset utilized for this project comprises 2,357 images of both malignant a
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-Created by [@githubusername] - feel free to contact me!
-Created by [@githubusername] - feel free to contact me!
+
+Created by 
+1) [@githubusername] - feel free to contact me!
+2) [@githubusername] - feel free to contact me!
+3) [@githubusername] - feel free to contact me!
