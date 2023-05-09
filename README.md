@@ -12,9 +12,11 @@ Multiclass Classification Model using CNN for Melanoma Detection
 	* Methodology
 	* Conclusions
 
-## Objective: To create a multiclass classification model using a custom convolutional neural network in tensorflow
+## Objective: 
+	To create a multiclass classification model using a custom convolutional neural network in tensorflow
 
-## Problem statement: To address the critical task of accurately identifying melanoma, a potentially life-threatening form of cancer, a CNN-based model is being developed. Melanoma accounts for 75% of skin cancer-related deaths, emphasizing the urgent need for early detection. By employing this solution, which can analyze images and promptly alert dermatologists about the presence of melanoma, a significant reduction in the manual effort required for diagnosis can be achieved.
+## Problem statement: 
+	To address the critical task of accurately identifying melanoma, a potentially life-threatening form of cancer, a CNN-based model is being developed. 	Melanoma accounts for 75% of skin cancer-related deaths, emphasizing the urgent need for early detection. By employing this solution, which can analyze images and promptly alert dermatologists about the presence of melanoma, a significant reduction in the manual effort required for diagnosis can be achieved.
 
 The dataset utilized for this project comprises 2,357 images of both malignant and benign oncological conditions. These images were obtained from the International Skin Imaging Collaboration (ISIC) and organized based on ISIC's classification system. The subsets of images were divided uniformly, except for melanomas and moles, which exhibit a slightly higher proportion of images.The data set contains the following diseases:
 
