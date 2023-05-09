@@ -56,6 +56,6 @@ The dataset utilized for this project comprises 2,357 images of both malignant a
 ## Contact
 
 Created by 
-1) [@githubusername] - feel free to contact me!
+1) https://github.com/Saurav-Sinha-2022 - feel free to contact me!
 2) [@githubusername] - feel free to contact me!
-3) [@githubusername] - feel free to contact me!
+3) https://github.com/royamrita23 - feel free to contact me!
